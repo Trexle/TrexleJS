@@ -1,11 +1,11 @@
 {
   "name": "trexlejs",
   "author": "Hossam Hossny <hossamhossnyar@gmail.com",
-  "description": "Api client for Trexle“,
+  "description": "Api client for Trexle",
   "scripts": {
     "test": "mocha -R list -t 5000"
   },
-  "main": "./lib/trexle”,
+  "main": "./lib/trexle",
   "version": "1.0.1",
   "dependencies": {
     "superagent": "~0.9.4"
