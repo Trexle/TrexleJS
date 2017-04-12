@@ -1,6 +1,6 @@
 {
-  "name": “trexlejs",
-  "author": “Hossam Hossny <hossamhossnyar@gmail.com",
+  "name": "trexlejs",
+  "author": "Hossam Hossny <hossamhossnyar@gmail.com",
   "description": "Api client for Trexle“,
   "scripts": {
     "test": "mocha -R list -t 5000"
