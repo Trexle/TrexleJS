@@ -49,7 +49,7 @@ trexle.createCharge({
   ip_address: '66.249.79.118"',
   card: {
     number: '4242424242424242',
-    expiry_month: 08,
+    expiry_month: 8,
     expiry_year: 2018,
     cvc: 123,
     name: 'John Milwood',
