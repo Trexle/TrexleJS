@@ -44,9 +44,10 @@ var trexle = Trexle.setup({
 
 trexle.createCharge({
   amount: 400,
+  currency: 'usd',
   description: 'test charge',
   email: 'john@trexle.com',
-  ip_address: '66.249.79.118"',
+  ip_address: '66.249.79.118',
   card: {
     number: '4242424242424242',
     expiry_month: 8,
